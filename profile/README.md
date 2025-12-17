@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Hello, World! 👋 I'm [Your Name/Handle]
+  # Hello, World! 👋 I'm [Ateeq(rtx9)]
   
-  **Architecting the Decentralized Cloud | Open Source Advocate | DevOps Engineer**
+  **Linux | DevOps | Cloud | Networking**
 
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/)
@@ -14,9 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I am a developer and passionate advocate for the democratization of technology. I don't just write code; I build ecosystems that empower communities. My work focuses on breaking down financial barriers in computing and creating resilient, peer-to-peer networks.
+I am a shepherd, I tend sheep, I live in the mountains, I cut wood, I make my own furniture, I grow my own crops, I herd my own cattle, I cook my own food, I earn my own bread and yet how dependent i am on allah.(for the non-muslims ;) Allah = God)
 
-I view technology as a tool for liberation, not just automation. When I'm not optimizing containers or architecting distributed systems, I'm likely auditing code for security or helping a student spin up their first VM.
+I never thought technology was mainstream, Yes everyone else does. I just see technology as enablement of human potential. Without mining coal, Humans could have never dreamt of instagram!
+Technology is a tool for liberation and non-partial equity. 
+
+When I'm not optimizing containers or architecting distributed systems, I'm likely auditing code for security or helping a student spin up their first VM.
 
 ## ⚖️ My Principles
 
@@ -25,8 +28,8 @@ I operate by a strict set of core values that guide every line of code I write a
 | Value | Description |
 | :--- | :--- |
 | **Community-First** | Systems should be built *by* and *for* the people who use them. Decisions are made with the collective interest in mind. |
-| **Accessibility** | Powerful tools should not be gated by wealth. I strive to provide open access to learners worldwide. |
-| **Innovation** | Stagnation is a security risk. I believe in constantly pushing the boundaries of decentralized tech. |
+| **Accessibility** | Powerful tools should not be gated by wealth. If you want to make money, collect a one-time payment and move on |
+| **Innovation** | Stagnation is a security risk. I believe if today, you don't do it. Then tommorow someone else will  |
 | **Trust & Security** | In a P2P world, trust is currency. Creating secure environments is my top priority. |
 
 <br>
@@ -81,5 +84,5 @@ We stand on the shoulders of giants and the hard work of contributors.
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rtx9&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
