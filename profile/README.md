@@ -40,18 +40,6 @@ You might notice a lack of social media links or a sparse public history outside
 
 **I believe that privacy is a fundamental human right.** In an age of surveillance capitalism, I choose to minimize my data exhaust. My identity is defined by my contributions, my commits, and the code I ship, not by a curated social media feed. I prefer my work to speak for itself, unencumbered by the noise of the digital attention economy.
 
-<br>
-
-## 🛠️ My Projects
-
-### 🚀 **Freedesk** (Primary Focus)
-*The mission: Democratize access to cloud computing.*
-
-| Project | Role | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Freedesk Core](https://freedesk.org)** | Founder/Maintainer | `Go`, `Docker`, `P2P` | 🟢 Active |
-| **Learning Hub** | Contributor | `React`, `Markdown` | 🟢 Active |
-| **Node Network** | Architect | `Linux`, `Networking` | 🟡 Beta |
 
 <br>
 
