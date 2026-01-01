@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a shepherd, I tend sheep, I live in the mountains, I cut wood, I make my own furniture, I grow my own crops, I herd my own cattle, I cook my own food, I earn my own bread and yet how dependent i am on allah.(for the non-muslims ;) Allah = God)
+I am a shepherd, I tend sheep, I live in the mountains, I cut wood, I make my own furniture, I grow my own crops, I herd my own cattle, I cook my own food, does that make me a free man? privacy is as if you keep it to someone or as if someone keeps it to you, you get to chose only one!
 
 I never thought technology was mainstream, Yes everyone else does. I just see technology as enablement of human potential. Without mining coal, Humans could have never dreamt of instagram!
 Technology is a tool for liberation and non-partial equity. 
